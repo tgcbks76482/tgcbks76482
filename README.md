@@ -1,9 +1,9 @@
 ### Yun's 
 ## Hi 👋 My name is Yun
 
-🌱 I’m a student in NCU
-😄 I'm interested in programming
-📫 You can reach me by email: s89930@g.ncu.edu.tw
+- 🌱 I’m a student in NCU
+- 😄 I'm interested in programming
+- 📫 You can reach me by email: s89930@g.ncu.edu.tw
 
 
 
